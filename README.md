@@ -4,7 +4,7 @@ An interactive and user-friendly **web-based recommendation system** that sugges
 Built using **HTML, CSS, and Vanilla JavaScript**, the system uses **content-based filtering** with **Jaccard similarity** to rank domains by skill overlap.
 
 🌐 **Live Demo:**  
-👉 https://shubham-goud.github.io/stax_ai_recommender/
+👉 https://DhanushTech882.github.io/stax_ai_recommender/
 
 ---
 
@@ -99,7 +99,7 @@ You can run this instantly without any setup:
 
 Deployed using **GitHub Pages** at:
 
-👉 **https://shubham-goud.github.io/stax_ai_recommender/**
+👉 **https://DhanushTech882.github.io/stax_ai_recommender/**
 
 ---
 
