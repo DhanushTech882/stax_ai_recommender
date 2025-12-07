@@ -111,7 +111,7 @@ This project is open-source under the MIT License.
 
 ## 👨‍💻 Author
 
-**Shubham Goud**  
+**Dhanush G**  
 B.Tech Artificial Intelligence & Data Science  
 StaxTech Internship – AI Track  
 
